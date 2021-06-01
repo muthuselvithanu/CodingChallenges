@@ -8,17 +8,29 @@ To run: node index.js <file-name> <paramname(--input1||--input2)> <paramvalue>
 [Alphabetize String](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/alphabetizeString.js)
   
 [Chop String](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/chopString.js)
+  
 [ConvertCase String](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/convertCaseString.js)
+  
 [Convert FirstCase String](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/convertFirstCase.js)
+  
 [Count Substring](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/countSubString.js)
+  
 [Full String](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/fullString.js)
+  
 [Long String](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/longString.js)
+  
 [Palindrome](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/palindrome.js)
+  
 [Remove Leading Trailing Spaces](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/removeLeadingTrailingSpaces.js)
+  
 [Reverse String](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/reverseString.js)
+  
 [Sort String](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/sortString.js)
+  
 [Sort String Alphabetic](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/sortStringAlphabetic.js)
+  
 [Split String](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/splitString.js)
+  
 [Truncate String](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/truncateString.js)
 
 
