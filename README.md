@@ -37,31 +37,54 @@ To run: node index.js <file-name> <paramname(--input1||--input2)> <paramvalue>
 # Array Programs
 
 [Ascending Array](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/ascendingArray.js)
+  
 [Big Number in Array](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/bigNumber.js)
+  
 [Compare Array](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/compareArray.js)
+  
 [Descending Array](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/descendingArray.js)
+  
 [Difference Array](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/differenceArray.js)
+  
 [Duplicate Array](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/duplicateArray.js)
+  
 [InterSection Array](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/interSectionArray.js)
+  
 [Reverse Array](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/reverseArray.js)
+  
 [Second Small Element Array](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/secondSmallArrEle.js)
+  
 [Sum Array](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/sumArray.js)
+  
 [Sum Array Index](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/sumArrayIndex.js)
+  
 [Sum Array Target](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/sumArrayTarget.js)
+  
 [Swap Array](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/swapArray.js)
+  
 [Swap Array Half](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/swapArrayHalf.js)
+  
 [Swap Array Index](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/swapArrayIndex.js)
+  
 [Union Array](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/unionArray.js)
 
 
 # Number Programs
 
 [Divide Integer](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/divideInteger.js)
+  
 [Factorial](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/factorial.js)
+  
 [Fibonacci](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/fibonacci.js)
+  
 [Fibonacci Series](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/fibonacciSeries.js)
+  
 [oddOrEven](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/oddOrEven.js)
+  
 [oddOrEvenCount](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/oddOrEvenCount.js)
+  
 [Prime Number](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/primeNumber.js)
+  
 [Right Most Round Number](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/rightmostRound.js)
+  
 [SingleDigit Sum](https://github.com/muthuselvithanu/CodingChallenges/blob/master/src/singleDigitSum.js)
