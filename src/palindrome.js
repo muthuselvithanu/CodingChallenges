@@ -1,7 +1,7 @@
 /*
 *****palindrome*****
 ***Function to find given string is Palindrome or not ***
-**Input: node index.js palindrome --input1=madam **
+**Test: node index.js palindrome --input1=madam **
 **output: Madam is Palindrome**
 */
 function palindrome(str)

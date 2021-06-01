@@ -1,7 +1,7 @@
 /*
 *****fullString*****
 ***Function to print the array of strings without NULL values ***
-**Input: node index.js fullString --arr1=null hi false 0 hello Nan world undefined **
+**Test: node index.js fullString --arr1=null hi false 0 hello Nan world undefined **
 **output: hi,hello,world**
 */
 function fullString(arrString)

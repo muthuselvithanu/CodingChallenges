@@ -1,7 +1,7 @@
 /*
 *****Second small array element*****
 ***Function to find second smll array element***
-**Input: node index.js secondSmallArrEle --arr1=45 78 96 83 21 47**
+**Test: node index.js secondSmallArrEle --arr1=45 78 96 83 21 47**
 **output: 45**
 */
 function secondSmallArrEle(nArr) {

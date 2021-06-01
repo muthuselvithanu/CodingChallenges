@@ -1,7 +1,7 @@
 /*
 *****swapArrayHalf*****
 ***Function to swap firsthalf with second half in an array***
-**Input: node index.js swapArrayHalf --arr1=44 78 56 12 54 96**
+**Test: node index.js swapArrayHalf --arr1=44 78 56 12 54 96**
 **output: 12 54 96 44 78 56**
 */
 function swapArrayHalf(arr)

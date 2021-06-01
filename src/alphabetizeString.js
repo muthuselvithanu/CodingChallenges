@@ -1,7 +1,7 @@
 /*
 *****Alphabetize String*****
 ***Function to sort a string in alphabetical order***
-**Input: node index.js alphabetizeString --input1=alphabetize**
+**Test: node index.js alphabetizeString --input1=alphabetize**
 **Output: aabeehilptz**
 */
 function alphabetizeString(str) {

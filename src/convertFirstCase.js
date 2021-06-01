@@ -1,7 +1,7 @@
 /*
 *****Convert First Case *****
 ***Function to convert  first letter in string to uppercase***
-**Input: node index.js convertFirstCase --input1="hello world" **
+**Test: node index.js convertFirstCase --input1="hello world" **
 **Output: Hello World**
 */
 function convertFirstCase(str)

@@ -1,7 +1,7 @@
 /*
 *****reverseArray*****
 ***Function to reverse numbers in an array***
-**Input: node index.js reverseArray --arr1=44 78 56 12 54 96**
+**Test: node index.js reverseArray --arr1=44 78 56 12 54 96**
 **output: 96 54 12 56 78 44**
 */
 function reverseArray(nArr)

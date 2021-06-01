@@ -1,7 +1,7 @@
 /*
 *****Singledigitsum*****
 ***Function to find sum of digits in number until we get single digit sum***
-**Input: node index.js singleDigitSum --input1=12456**
+**Test: node index.js singleDigitSum --input1=12456**
 **output: 9**
 */
 function singleDigitSum(num) {

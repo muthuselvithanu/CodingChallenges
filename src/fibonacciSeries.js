@@ -2,7 +2,7 @@
 /*
 *****fibonacciSeries*****
 ***Function to find fibonacci series ***
-**Input: node index.js fibonacciSeries --input1=6**
+**Test: node index.js fibonacciSeries --input1=6**
 **output: 0,1,1,2,3,5 **
 */
 function fibonacciSeries(num)

@@ -1,7 +1,7 @@
 /*
 *****Convert Case String*****
 ***Function to convert case of a string***
-**Input: node index.js convertCaseString --input1="Hello World" **
+**Test: node index.js convertCaseString --input1="Hello World" **
 **Output: hELLO wORLD**
 */
 function convertCaseString(str) {

@@ -1,7 +1,7 @@
 /*
 *****sortStringAlphabetic*****
 ***Function to sort array of strings alphabetically ***
-**Input: node index.js sortStringAlphabetic --arr1=hi hello world are you doing good  **
+**Test: node index.js sortStringAlphabetic --arr1=hi hello world are you doing good  **
 **output: are doing good hello hi world you**
 */
 function sortStringAlphabetic(strArr)

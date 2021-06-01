@@ -1,7 +1,7 @@
 /*
 *****UnionArray*****
 ***Function to find union between 2 arrays***
-**Input: node index.js unionArray --arr1=1 2 3 4 5 6 --arr2=4 5 6 7 8 9**
+**Test: node index.js unionArray --arr1=1 2 3 4 5 6 --arr2=4 5 6 7 8 9**
 **output: 1 2 3 4 5 6 7 8 9**
 */
 function unionArray(arr1,arr2)

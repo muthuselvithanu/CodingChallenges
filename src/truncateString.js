@@ -1,7 +1,7 @@
 /*
 *****truncateString*****
 ***Function to truncate string into number of words based on given length***
-**Input: node index.js truncateString --input1="hi hello world" --input2=2**
+**Test: node index.js truncateString --input1="hi hello world" --input2=2**
 **output: hi hello**
 */
 function truncateString(str, length) {

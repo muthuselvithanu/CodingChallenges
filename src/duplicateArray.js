@@ -1,7 +1,7 @@
 /*
 *****DuplicateArray*****
 ***Function to find duplicate numbers in an array***
-**Input: node index.js duplicateArray --arr1=4 7 8 5 1 4 8 2 3 5**
+**Test: node index.js duplicateArray --arr1=4 7 8 5 1 4 8 2 3 5**
 **output: 4 8 5**
 */
 function duplicateArray(nArr) {

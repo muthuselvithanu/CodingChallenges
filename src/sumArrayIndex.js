@@ -1,7 +1,7 @@
 /*
 *****sumArrayIndex*****
 ***Function to find sum of numbers in an array based on its index***
-**Input: node index.js sumArrayIndex --arr1=4 5 2 3 1 --arr2=3 2 5 6**
+**Test: node index.js sumArrayIndex --arr1=4 5 2 3 1 --arr2=3 2 5 6**
 **output: 7 7 7 9 1**
 */
 function sumArrayIndex(arr1, arr2) {

@@ -1,7 +1,7 @@
 /*
 *****DescendingArray*****
 ***Function to sort an array in descending order***
-**Input: node index.js descendingArray --arr1=4 5 7 9 -6 3 2 78**
+**Test: node index.js descendingArray --arr1=4 5 7 9 -6 3 2 78**
 **output: 78 9 7 5 4 3 2 -6**
 */
 function descendingArray(nArr) {

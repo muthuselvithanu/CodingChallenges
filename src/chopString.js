@@ -1,7 +1,7 @@
 /*
 *****Chop String*****
 ***Function to Chop String based on choplength***
-**Input: node index.js chopString --input1="Hello World" --input2=3**
+**Test: node index.js chopString --input1="Hello World" --input2=3**
 **Output: Hel
           lo
           Wor

@@ -1,7 +1,7 @@
 /*
 *****BigNumber*****
 ***Function to find biggest number in an array***
-** Input: node index.js bigNumber --arr1=4 5 6 -8 7 12 3**
+** Test: node index.js bigNumber --arr1=4 5 6 -8 7 12 3**
 ** Output: 12**
 */
 function bigNumber(nArr)

@@ -1,7 +1,7 @@
 /*
 *****sumArrayTarget*****
 ***Function to find sum of numbers that is equal to Targetsum in an array***
-**Input: node index.js sumArrayTarget --arr1=4 5 2 3 7 6 1 --input1=9**
+**Test: node index.js sumArrayTarget --arr1=4 5 2 3 7 6 1 --input1=9**
 **output: [4,5],[2,7],[3,6]**
 */
 function sumArrayTarget(arr, targetSum) {

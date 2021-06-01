@@ -1,7 +1,7 @@
 /*
 *****sortString*****
 ***Function to sort array of strings based on length ***
-**Input: node index.js sortString --arr1=hi hello world are you doing good  **
+**Test: node index.js sortString --arr1=hi hello world are you doing good  **
 **output: hi are you good hello world doing**
 */
 function sortString(arr)

@@ -1,7 +1,7 @@
 /*
 *****rightMostRoundNumber*****
 ***Function to find rightMostRoundnumber and its position in array of numbers ***
-**Input: node index.js rightmostRound --arr1=4500 50 7800 12 56300 456 **
+**Test: node index.js rightmostRound --arr1=4500 50 7800 12 56300 456 **
 **output:Position of Rightmost round number is:4
          Rightmost Round number is 56300**
 */

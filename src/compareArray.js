@@ -1,7 +1,7 @@
 /*
 *****Compare Array*****
 ***Compare 2 arrays then sort them in Ascending order***
-**Input: node index.js compareArray --arr1=4 5 7 8 7 2 --arr2=6 8 1 3 9 5**
+**Test: node index.js compareArray --arr1=4 5 7 8 7 2 --arr2=6 8 1 3 9 5**
 **Output: 4 5 7 8 2 6 1 3 9
           1 2 3 4 5 6 7 8 9**
 */

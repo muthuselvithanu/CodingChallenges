@@ -1,7 +1,7 @@
 /*
 *****Primenumber*****
 ***Function to find prime numbers ***
-**Input: node index.js primeNumber --input1=20 **
+**Test: node index.js primeNumber --input1=20 **
 **output: 1 2 3 5 7 11 13 17 19**
 */
 function primeNumber(num) {

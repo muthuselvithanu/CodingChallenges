@@ -2,7 +2,7 @@
 /*
 *****factorial*****
 ***Function to find the factorial of an number***
-**Input: node index.js factorial --input1=6**
+**Test: node index.js factorial --input1=6**
 **output: 720**
 */
 function factorial(n){

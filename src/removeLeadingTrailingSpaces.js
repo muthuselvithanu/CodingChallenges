@@ -1,7 +1,7 @@
 /*
 *****removeLeadingTrailingSpaces*****
 ***Function to remove leading and trailing spaces from given string ***
-**Input: node index.js removeLeadingTrailingSpaces --input1="   hello world    " **
+**Test: node index.js removeLeadingTrailingSpaces --input1="   hello world    " **
 **output:hello world**
 */
 function removeLeadingTrailingSpaces(str)

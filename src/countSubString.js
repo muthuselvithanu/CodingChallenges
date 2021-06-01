@@ -1,7 +1,7 @@
 /*
 *****Count Substring *****
 ***Function to count substring in a given string***
-**Input: node index.js countSubString --input1="Bretty bought some bitter butter that made her batter bitter" --input2=ter **
+**Test: node index.js countSubString --input1="Bretty bought some bitter butter that made her batter bitter" --input2=ter **
 **Output: 4**
 */
 function countSubString(str, substr) {

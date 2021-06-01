@@ -3,7 +3,7 @@
 ***Function to find odd or even numbers***
 ***replace every 2nd even number with hello and print position*2 ***
 ***replace every 3rd odd number with hi and print position*2 ***
-**Input: node index.js oddOrEven --input1=10**
+**Test: node index.js oddOrEven --input1=10**
 **output: hello 4 16
           hi 5 25
           hello 8 64**

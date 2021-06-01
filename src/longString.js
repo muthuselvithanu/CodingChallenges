@@ -1,7 +1,7 @@
 /*
 *****longString*****
 ***Function to find Longest String in an array ***
-**Input: node index.js longString --arr1=hi hello world are you doing good  **
+**Test: node index.js longString --arr1=hi hello world are you doing good  **
 **output: hello,world,doing**
 */
 function longString(arr) {

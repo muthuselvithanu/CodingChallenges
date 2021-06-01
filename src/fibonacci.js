@@ -2,7 +2,7 @@
 /*
 *****fibonacci*****
 ***Function to find fibonacci series and print number in given position***
-**Input: node index.js fibonacci --input1=6**
+**Test: node index.js fibonacci --input1=6**
 **output: 8**
 */
 

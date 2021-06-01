@@ -1,7 +1,7 @@
 /*
 *****DivideInteger*****
 ***Function to divide the number as long as result is integer***
-**Input: node index.js divideInteger --input1=18 --input2=3**
+**Test: node index.js divideInteger --input1=18 --input2=3**
 **output: 2**
 */
 function divideInteger(dividend, divisor) {
