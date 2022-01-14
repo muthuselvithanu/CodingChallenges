@@ -10,7 +10,7 @@ function longString(arr) {
       let str = arr[i];
       if (str.length > big) {
         big = str.length;
-        longstr.pop();
+        longstr=[];
         longstr.push(str);
           }
           else if(str.length==big)
